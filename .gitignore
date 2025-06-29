@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+pattern_hash.txt
+secret.key
